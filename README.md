@@ -16,12 +16,14 @@ This is my **personal portfolio website**, built using basic HTML, CSS, and Java
 
 ## 📂 Project Structure
 aiml-portfolio-pwa/
-├── index.html           → Main page of the portfolio website
-├── style.css            → Styling (colors, fonts, layout)
-├── main.js              → Registers service worker for PWA features
-├── manifest.json        → Basic app settings (like name, icon)
-├── service-worker.js    → Allows offline use by caching files
-└── icons/               → App icons for mobile (192x192 & 512x512)
+├── index.html
+├── style.css
+├── main.js
+├── manifest.json
+├── service-worker.js
+└── AIML_Student/
+    ├── award.png
+    └── document.png
 
 ## 📱 How to Use
 
