@@ -35,8 +35,8 @@ aiml-portfolio-pwa/
 
 ## 🌍 Live Website
 
-👉 [Visit Portfolio](https://yourusername.github.io/aiml-portfolio-pwa/)  
-*(Replace with your real GitHub username after deployment)*
+👉 [Visit Portfolio](https://github.com/SiddhikaShukla25/AIML_Student.git)
+
 
 
 ## 🧠 About Me
@@ -52,7 +52,7 @@ I love working with:
 
 Feel free to reach out or collaborate!
 
-📧 ps492292@gmail.com@gmail.com  
+📧 ps492292@gmail.com  
 🐙 [GitHub](https://github.com/Siddhikashukla25)
 
 
